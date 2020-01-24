@@ -3,5 +3,7 @@ p {
 }
 
 b.background{
-  background-image: url("image/game_bg.png");
+  color: #000000;
+  background-color: #f8dce0;
+  background-image: url("image/game_bg.png")
 }
