@@ -4,6 +4,10 @@ p {
 
 b.background{
   color: #000000;
-  background-color: #f8dce0;
+  background-color: #ffffff;
   background-image: url("image/game_bg.png")
 }
+
+td.public {color: blue;}
+.protected {color: green;}
+.private {color: red;}
