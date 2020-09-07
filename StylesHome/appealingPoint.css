@@ -1,0 +1,25 @@
+
+body
+{
+    background-color:black;
+}
+
+#title
+{
+    font-size: 3vw;
+    color:white;
+}
+
+.header
+{
+    margin:1vw;
+    font-size: 2vw;
+    color:white;
+}
+
+.textBox
+{
+    font-size:1vw;
+    color:white;
+    margin-left:3vw;
+}
